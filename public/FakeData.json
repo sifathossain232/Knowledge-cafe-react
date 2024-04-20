@@ -1,0 +1,50 @@
+[
+    {     "image": "https://i.ibb.co/p1LKv2M/2.webp",
+        "profile_image": "https://i.ibb.co/cxQ2zGV/girl2.webp",
+        "title": "Senior Software Engineer",
+        "name": "Alice Johnson",
+        "read_time": 10,
+        "seen_date": "2024-04-17",
+        "hashtags": [
+            "#programming",
+            "#softwareengineering",
+            "#technology"
+        ]
+    },
+    { "image": "https://i.ibb.co/KDYdyq9/3.webp",
+        "profile_image": "https://i.ibb.co/5FjXxBh/girl1.webp",
+        "title": "Marketing Manager",
+        "name": "John Smith",
+        "read_time": 8,
+        "seen_date": "2024-04-17",
+        "hashtags": [
+            "#marketing",
+            "#digitalmarketing",
+            "#business"
+        ]
+    },
+    { "image": "https://i.ibb.co/p42QcHs/4.webp",
+        "profile_image": "https://i.ibb.co/NrqsWk3/boy2.webp",
+        "title": "Graphic Designer",
+        "name": "Emily Brown",
+        "read_time": 12,
+        "seen_date": "2024-04-16",
+        "hashtags": [
+            "#design",
+            "#graphicdesign",
+            "#creativity"
+        ]
+    },
+    { "image": "https://i.ibb.co/Yp6sc21/1.webp",
+        "profile_image": "https://i.ibb.co/wBK1JcB/boy1.webp",
+        "title": "Data Scientist",
+        "name": "Michael Lee",
+        "read_time": 15,
+        "seen_date": "2024-04-16",
+        "hashtags": [
+            "#dataanalysis",
+            "#datascience",
+            "#machinelearning"
+        ]
+    }
+]
